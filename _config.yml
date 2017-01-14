@@ -1,0 +1,71 @@
+layout_spectrum: 0.9413207207516868
+typography_spectrum: 0.31591306289252225
+color:
+  brandStrength: 0.8400307158622338
+  lightness: 0.073316463070396
+  saturation: 0.35885064186906385
+  rhythmicContrast: 0.20513504830299703
+  brandColors:
+    - '#E8EBEA'
+    - '#BAD0DB'
+    - '#000000'
+    - '#727473'
+    - '#542F31'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7391e258-d04c-429e-9f42-a1a0639cf360.jpg
+name: theinnov8tors
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Twitter
+    url: 'https://twitter.com/innov8tors'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/theinnov8tors/'
+    type: external
+  - name: YouTube
+    url: 'https://www.youtube.com/theinnov8tors'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/innov8tors'
+    type: external
+title: ''
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a7949c-6324-4ae3-8379-0eb93d677659.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6a7949c-6324-4ae3-8379-0eb93d677659.gif
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: EDM ● Electro House ● Electro Pop ● Trap
+purpose:
+  - type: contact
+    url: 'mailto:theinnov8tors@gmail.com'
+    label: Contact
+  - type: external
+    url: 'https://soundcloud.com/theinnov8tors/tracks'
+    label: Listen on SoundCloud
+github: true
